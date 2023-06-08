@@ -1,0 +1,6 @@
+{
+	"browser1": "chrome",
+	"browser2": "firefox",
+	"Url": "https://demoqa.com",
+	"EnterText": "entertext" 
+}

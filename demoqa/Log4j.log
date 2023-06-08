@@ -1,0 +1,170 @@
+11:12:26.354 [main] INFO  - Elements Page Appeared
+11:12:37.964 [main] INFO  - demoqa.com Home Page Appeared
+11:12:38.786 [main] INFO  - demoqa.com Home Page Appeared
+11:12:38.786 [main] INFO  - Elements Click
+11:12:38.892 [main] INFO  - WebTables Click
+11:12:38.956 [main] INFO  - Add Click
+11:12:39.009 [main] INFO  - form Click
+11:12:39.050 [main] WARN  - First Name
+11:12:39.119 [main] WARN  - Last Name
+11:12:39.190 [main] WARN  - Email
+11:12:39.280 [main] WARN  - Age
+11:12:39.323 [main] WARN  - Salary
+11:12:39.370 [main] WARN  - Department
+11:12:39.421 [main] INFO  - Submit Click
+11:12:39.469 [main] INFO  - Test Data 1 : First Name
+11:12:39.498 [main] INFO  - Test Data 1 : Last Name
+11:12:39.518 [main] INFO  - Test Data 1 : Email
+11:12:39.538 [main] INFO  - Test Data 1 : Age
+11:12:39.557 [main] INFO  - Test Data 1 : Salary
+11:12:39.574 [main] INFO  - Test Data 1 : Department
+11:12:39.594 [main] INFO  - Delete Click
+11:12:40.477 [main] INFO  - demoqa.com Home Page Appeared
+11:12:40.477 [main] INFO  - Elements Click
+11:12:40.540 [main] INFO  - WebTables Click
+11:12:40.614 [main] INFO  - Add Click
+11:12:40.660 [main] INFO  - form Click
+11:12:40.697 [main] WARN  - First Name
+11:12:40.763 [main] WARN  - Last Name
+11:12:40.829 [main] WARN  - Email
+11:12:40.910 [main] WARN  - Age
+11:12:40.953 [main] WARN  - Salary
+11:12:41.001 [main] WARN  - Department
+11:12:41.049 [main] INFO  - Submit Click
+11:12:41.090 [main] INFO  - Test Data 2 : First Name
+11:12:41.112 [main] INFO  - Test Data 2 : Last Name
+11:12:41.136 [main] INFO  - Test Data 2 : Email
+11:12:41.159 [main] INFO  - Test Data 2 : Age
+11:12:41.179 [main] INFO  - Test Data 2 : Salary
+11:12:41.199 [main] INFO  - Test Data 2 : Department
+11:12:41.219 [main] INFO  - Delete Click
+11:57:37.025 [main] INFO  - Alerts Page Has Appeared 
+11:57:37.089 [main] INFO  - Elements Page Appeared
+11:57:37.093 [main] INFO  - Hadles Page Appeared
+11:57:37.096 [main] INFO  - Frames Page Appeared
+11:57:48.717 [main] INFO  - demoqa.com Home Page Appeared
+11:57:48.737 [main] INFO  - Alerts, Frame & Windows Click
+11:57:48.829 [main] INFO  - Alerts Click
+11:57:48.899 [main] INFO  - Click Button to see alert
+11:57:48.954 [main] INFO  - Clicked Ok on Alert
+11:57:48.954 [main] INFO  - On click,Confirm box appears
+11:57:48.994 [main] INFO  - Clicked Ok on Alert
+11:57:48.994 [main] INFO  - Fetched the text--> You selected ok
+11:57:49.018 [main] INFO  - Fetched the text--> You selected ok
+11:57:49.031 [main] INFO  - You selected Ok
+11:57:49.031 [main] INFO  - On click,Prompt box appears
+11:57:49.068 [main] WARN  - Sending Values in Alert Text Box
+11:57:49.073 [main] INFO  - Clicked Ok on Alert
+11:57:49.073 [main] INFO  - Fetched the text--> You entered randomly generated
+11:57:49.093 [main] INFO  - Fetched the text--> You entered randomly generated
+11:57:49.115 [main] INFO  - You entered randomly generated
+11:57:50.346 [main] INFO  - demoqa.com Home Page Appeared
+11:57:50.346 [main] INFO  - Elements Click
+11:57:50.441 [main] INFO  - WebTables Click
+11:57:50.553 [main] INFO  - Add Click
+11:57:50.605 [main] INFO  - form Click
+11:57:50.642 [main] WARN  - First Name
+11:57:50.748 [main] WARN  - Last Name
+11:57:50.799 [main] WARN  - Email
+11:57:50.890 [main] WARN  - Age
+11:57:50.948 [main] WARN  - Salary
+11:57:50.999 [main] WARN  - Department
+11:57:51.056 [main] INFO  - Submit Click
+11:57:51.104 [main] INFO  - Test Data 1 : First Name
+11:57:51.125 [main] INFO  - Test Data 1 : Last Name
+11:57:51.148 [main] INFO  - Test Data 1 : Email
+11:57:51.170 [main] INFO  - Test Data 1 : Age
+11:57:51.191 [main] INFO  - Test Data 1 : Salary
+11:57:51.211 [main] INFO  - Test Data 1 : Department
+11:57:51.232 [main] INFO  - Delete Click
+11:57:52.535 [main] INFO  - demoqa.com Home Page Appeared
+11:57:52.536 [main] INFO  - Elements Click
+11:57:52.632 [main] INFO  - WebTables Click
+11:57:52.687 [main] INFO  - Add Click
+11:57:52.730 [main] INFO  - form Click
+11:57:52.760 [main] WARN  - First Name
+11:57:52.819 [main] WARN  - Last Name
+11:57:52.887 [main] WARN  - Email
+11:57:52.978 [main] WARN  - Age
+11:57:53.025 [main] WARN  - Salary
+11:57:53.076 [main] WARN  - Department
+11:57:53.125 [main] INFO  - Submit Click
+11:57:53.166 [main] INFO  - Test Data 2 : First Name
+11:57:53.188 [main] INFO  - Test Data 2 : Last Name
+11:57:53.210 [main] INFO  - Test Data 2 : Email
+11:57:53.232 [main] INFO  - Test Data 2 : Age
+11:57:53.253 [main] INFO  - Test Data 2 : Salary
+11:57:53.272 [main] INFO  - Test Data 2 : Department
+11:57:53.291 [main] INFO  - Delete Click
+11:57:53.334 [main] INFO  - Alerts, Frame & Windows Click
+11:57:58.363 [main] INFO  - Alerts, Frame & Windows Click
+12:00:00.413 [main] INFO  - Hadles Page Appeared
+12:00:09.255 [main] INFO  - demoqa.com Home Page Appeared
+12:00:09.279 [main] INFO  - Alerts, Frame & Windows Click
+12:00:09.374 [main] INFO  - Browser Window Click
+12:00:09.440 [main] INFO  - New Tab Click
+12:00:09.520 [main] INFO  - New Tab with text Sample Page
+12:00:09.750 [main] INFO  - New Tab with text Sample Page
+12:00:09.789 [main] INFO  - Elements Click
+12:00:09.830 [main] INFO  - Links Click
+12:00:10.140 [main] INFO  - Home Click
+12:01:01.658 [main] INFO  - Alerts Page Has Appeared 
+12:01:01.695 [main] INFO  - Elements Page Appeared
+12:01:01.698 [main] INFO  - Hadles Page Appeared
+12:01:01.701 [main] INFO  - Frames Page Appeared
+12:01:08.454 [main] INFO  - demoqa.com Home Page Appeared
+12:01:08.480 [main] INFO  - Alerts, Frame & Windows Click
+12:01:08.576 [main] INFO  - Alerts Click
+12:01:08.648 [main] INFO  - Click Button to see alert
+12:01:08.691 [main] INFO  - Clicked Ok on Alert
+12:01:08.691 [main] INFO  - On click,Confirm box appears
+12:01:08.733 [main] INFO  - Clicked Ok on Alert
+12:01:08.733 [main] INFO  - Fetched the text--> You selected ok
+12:01:08.752 [main] INFO  - Fetched the text--> You selected ok
+12:01:08.763 [main] INFO  - You selected Ok
+12:01:08.763 [main] INFO  - On click,Prompt box appears
+12:01:08.800 [main] WARN  - Sending Values in Alert Text Box
+12:01:08.805 [main] INFO  - Clicked Ok on Alert
+12:01:08.805 [main] INFO  - Fetched the text--> You entered randomly generated
+12:01:08.825 [main] INFO  - Fetched the text--> You entered randomly generated
+12:01:08.838 [main] INFO  - You entered randomly generated
+12:01:11.241 [main] INFO  - demoqa.com Home Page Appeared
+12:01:11.241 [main] INFO  - Elements Click
+12:01:11.361 [main] INFO  - WebTables Click
+12:01:11.421 [main] INFO  - Add Click
+12:01:11.471 [main] INFO  - form Click
+12:01:11.506 [main] WARN  - First Name
+12:01:11.564 [main] WARN  - Last Name
+12:01:11.621 [main] WARN  - Email
+12:01:11.712 [main] WARN  - Age
+12:01:11.760 [main] WARN  - Salary
+12:01:11.842 [main] WARN  - Department
+12:01:11.895 [main] INFO  - Submit Click
+12:01:11.949 [main] INFO  - Test Data 1 : First Name
+12:01:11.971 [main] INFO  - Test Data 1 : Last Name
+12:01:11.991 [main] INFO  - Test Data 1 : Email
+12:01:12.013 [main] INFO  - Test Data 1 : Age
+12:01:12.033 [main] INFO  - Test Data 1 : Salary
+12:01:12.054 [main] INFO  - Test Data 1 : Department
+12:01:12.074 [main] INFO  - Delete Click
+12:01:12.966 [main] INFO  - demoqa.com Home Page Appeared
+12:01:12.966 [main] INFO  - Elements Click
+12:01:13.068 [main] INFO  - WebTables Click
+12:01:13.126 [main] INFO  - Add Click
+12:01:13.173 [main] INFO  - form Click
+12:01:13.204 [main] WARN  - First Name
+12:01:13.262 [main] WARN  - Last Name
+12:01:13.332 [main] WARN  - Email
+12:01:13.421 [main] WARN  - Age
+12:01:13.469 [main] WARN  - Salary
+12:01:13.519 [main] WARN  - Department
+12:01:13.568 [main] INFO  - Submit Click
+12:01:13.610 [main] INFO  - Test Data 2 : First Name
+12:01:13.639 [main] INFO  - Test Data 2 : Last Name
+12:01:13.660 [main] INFO  - Test Data 2 : Email
+12:01:13.682 [main] INFO  - Test Data 2 : Age
+12:01:13.701 [main] INFO  - Test Data 2 : Salary
+12:01:13.721 [main] INFO  - Test Data 2 : Department
+12:01:13.742 [main] INFO  - Delete Click
+12:01:13.785 [main] INFO  - Alerts, Frame & Windows Click
+12:01:18.823 [main] INFO  - Alerts, Frame & Windows Click
